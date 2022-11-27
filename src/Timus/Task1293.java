@@ -2,7 +2,7 @@ package Timus;
 
 import java.util.Scanner;
 
-public class Main {
+public class Task1293 {
 
     public static void main(String[] args) {
 
